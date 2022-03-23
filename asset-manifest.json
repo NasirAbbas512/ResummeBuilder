@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ResummeBuilder/static/css/main.108d9126.css",
+    "main.js": "/ResummeBuilder/static/js/main.0c5cd04a.js",
+    "index.html": "/ResummeBuilder/index.html",
+    "main.108d9126.css.map": "/ResummeBuilder/static/css/main.108d9126.css.map",
+    "main.0c5cd04a.js.map": "/ResummeBuilder/static/js/main.0c5cd04a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.108d9126.css",
+    "static/js/main.0c5cd04a.js"
+  ]
+}
