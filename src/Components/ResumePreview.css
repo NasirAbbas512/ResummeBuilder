@@ -1,0 +1,107 @@
+.mian_container{
+    width: 100%;
+    display: grid;
+    padding: 3rem;
+    grid-gap: 2rem;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+.resume_header{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    
+    align-items: center;
+}
+
+.header_right h1{
+    font-size: 3rem;
+}
+
+.header_left{
+    display: grid;
+    justify-content: end;
+    align-items: center;
+}
+
+
+
+.header_left_content{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1rem;
+    align-items: center;
+}
+
+.header_left_content h3{
+    display: flex;
+    justify-content: end;
+}
+
+.hero_section{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 2rem;
+}
+
+.hero_left{
+    display: grid;
+    grid-gap: 2rem;
+}
+
+.Education h1, .skills h1 ,.personal_projects h1,.experience_projects h1,.interest h1{
+    border-bottom: 2px solid black;
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+
+.education_title{
+    display: grid;
+    padding: 0.7rem 0;
+}
+
+.education_title h2{
+    font-size: 1.3rem;
+    font-weight: 800;
+}
+
+.education_title h3{
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.skills{
+    display: grid;
+    grid-gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.skill_content{
+    display: grid;
+    justify-content: start;
+}
+
+.skill_content h4{
+    background-color: hsl(0, 0%, 41%);
+    color: white;
+    font-size: 0.9rem;
+    padding: 0.5rem;
+    border-radius: 7px;
+}
+
+.interest{
+    display: grid;
+    grid-gap: 2rem;
+}
+
+.interest_content{
+    display: flex;
+    justify-content: center;
+}
+
+.interest_content h4{
+    border: 1px solid gray;
+    padding: 0.3rem 1rem;
+    border-radius: 7px;
+    margin-left: 1rem;
+}

@@ -1,0 +1,34 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+*{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 80.5%;
+}
+
+body {
+  
+}
+
+.main{
+  display: grid;
+  grid-gap: 1rem;
+}
+
+.addmore_container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.addmore_inputs{
+  display: grid;
+  grid-gap: 3rem;
+}
+
+.addmore_btns{
+  display: flex;
+  justify-content: space-between;
+}

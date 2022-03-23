@@ -1,0 +1,10 @@
+.Container{
+    height: auto;
+    padding: 3rem;
+}
+
+.back_next_btns{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
